@@ -1,5 +1,6 @@
+# Employee Mood Tracker
 This is a Mini project on Employee Mood Tracker, taking current mood of an employee.
-#### Before start check the app on vercel: 
+#### Before start check the app on vercel: https://employee-mood-tracker.vercel.app/ 
 
 ## Getting Started
 #### Install dependencies first:
@@ -26,3 +27,5 @@ Click on Submit. It will show a success message.
 
 ####  View your mood:
 Click on dashboard to see your mood submitted. 
+
+#### Created by Loknath Saha
