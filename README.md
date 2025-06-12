@@ -1,5 +1,5 @@
 # Employee Mood Tracker
-This is a Mini project on Employee Mood Tracker, taking current mood of an employee.
+This is a Mini project on Employee Mood Tracker, taking current mood of an employee, created using NextJS 15, TailwindCSS and Shadcn ui library.
 #### Before start check the app on vercel: https://employee-mood-tracker.vercel.app/ 
 
 ## Getting Started
